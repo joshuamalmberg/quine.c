@@ -6,7 +6,7 @@ This program implements a quine in C. For more information about quines see:
 
 https://en.wikipedia.org/wiki/Quine_(computing)
 
-The program is named quine0.c and outputs a program quine<i>.c, incrementing i. The function can be adapted to include an additional function that does some useful work.
+The program is named quine0.c and outputs a program quine[i].c, incrementing i. The function can be adapted to include an additional function that does some useful work.
 
 The file **quine0.c** provides the implementation of the quine.
 

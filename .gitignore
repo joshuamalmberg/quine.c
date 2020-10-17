@@ -1,0 +1,5 @@
+*.exe
+!quine0.c
+quine[^\d].c
+out.txt
+in.txt
